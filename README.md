@@ -151,7 +151,7 @@ Ensure reshape to:
 
 ## Contributors
 
--   Your Name
+Rajath Patil Kulkarni
 
 ## License
 
