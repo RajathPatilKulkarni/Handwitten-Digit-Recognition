@@ -155,4 +155,4 @@ Rajath Patil Kulkarni
 
 ## License
 
-(MIT License)[LICENSE]
+[MIT License](LICENSE)
