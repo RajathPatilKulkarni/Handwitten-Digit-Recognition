@@ -1,1 +1,0 @@
-# Handwitten-Digit-Recognition
